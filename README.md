@@ -1,9 +1,7 @@
 # selenium-pageobjectmodel
-**Page Object Model design using Java + TestNG (Or Junit) + Maven. Supports Parallel. Uses APIs to setup test data and application state. Follows industry best practices.**
+**Page Object Model design using Java + TestNG (Or Junit) + Maven. Supports Parallel. Uses APIs to setup test data and application state**
 
-**Step by step instructions to build this framework from scratch, learn automation best practices and integrate with Jenkins CI is in this Udemy course.
-Enroll today at the minimal rate of INR 570/ $12.99.
-Link with coupon code: https://www.udemy.com/course/selenium-java-test-framework/?couponCode=DEC021**
+
 
 ![Udemy_Landing_Page](/CourseLandingPage.PNG)
 
