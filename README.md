@@ -3,8 +3,6 @@
 
 
 
-![Udemy_Landing_Page](/CourseLandingPage.PNG)
-
 Technologies/Tools used in building the framework
 =================================================
 - Selenium WebDriver
